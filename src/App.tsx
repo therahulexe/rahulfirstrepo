@@ -1,3 +1,4 @@
+import nmitLogo from './nmit logo.jpg';
 import React, { useState, useMemo } from 'react';
 import { 
   Search, 
